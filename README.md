@@ -1,3 +1,22 @@
+## filters - 1.7.4-1
+
+User `ahendrix@bof` released the packages in the `filters` repository by running `/usr/bin/bloom-release -t hydro -r hydro filters` on `Tue, 10 Sep 2013 17:55:36 -0000`
+
+The `filters` package was released.
+
+Version of package(s) in repository `filters`:
+- rosdistro version: `1.7.4-0`
+- old version: `1.7.4-0`
+- new version: `1.7.4-1`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.19`
+- rosdep version: `0.10.21`
+- rosdistro version: `0.2.14`
+- vcstools version: `0.1.31`
+
+
 ## filters - 1.7.4-0
 
 User `william@dosa` released the packages in the `filters` repository by running `/usr/local/bin/bloom-release -r hydro -t hydro filters` on `Wed, 24 Jul 2013 03:12:08 -0000`
